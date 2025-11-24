@@ -11,6 +11,7 @@ mycalc_project/
 │  ├─ scientific.py     # 제곱, 제곱근, 팩토리얼, 조합/순열 등 과학 계산
 │  └─ utils.py          # 입력 검증 등 공통 유틸함수
 └─ main.py              # 패키지 기능 테스트용 실행 스크립트
+```
 
-
-<img width="471" height="414" alt="image" src="https://github.com/user-attachments/assets/5be413ab-4dc5-40b2-976b-bd292772f833" /> ```
+# 2. 패키지 실행결과 예시
+<img width="471" height="414" alt="image" src="https://github.com/user-attachments/assets/5be413ab-4dc5-40b2-976b-bd292772f833" /> 
