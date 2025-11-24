@@ -3,8 +3,7 @@
 
 
 ## 1. 패키지 구조
-
-```text
+'''text
 mycalc_project/
 ├─ mycalc/              # 계산기 패키지
 │  ├─ __init__.py       # 공개 함수 정리
